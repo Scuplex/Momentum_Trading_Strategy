@@ -70,4 +70,3 @@ if gross_returns_data:
     print(returns_df.tail(10)[['ticker', 'gross_return']].to_string(index=False))
 else:
     print("❌ No valid gross return data calculated")
-# test
