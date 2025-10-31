@@ -23,3 +23,5 @@ env/
 
 # Jupyter checkpoints (if you use notebooks)
 .ipynb_checkpoints/
+all_stock_data.parquet
+all_stock_data.csv
